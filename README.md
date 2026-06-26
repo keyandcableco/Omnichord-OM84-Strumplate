@@ -1,5 +1,11 @@
 # OM-84 Strumplate Reproduction
 
+<img src="images/version1p0.jpg" alt="flex PCB version 1.0" width="500">
+
+## 🎥 Demo Video
+
+[![OM-84 Flex PCB Demo](https://img.youtube.com/vi/AUu1BD4b1K8/maxresdefault.jpg)](https://youtu.be/AUu1BD4b1K8)
+
 This project is an effort to reproduce the strumplate for the Suzuki Omnichord, starting with OM-84 because that's what we've got. 
 ### Background
 
@@ -16,6 +22,9 @@ A [brave technician](https://www.reddit.com/user/adamjsp/) is working to restore
 ### Current Status
 
 Early stage. The goal is to create a drop-in replacement that matches the original feel and response as closely as possible.
+
+UPDATE (JUNE 25, 2026)
+Version 1.0 of the flex PCB works very well, may be a bit thin at 0.11mm, but certainly works. GERBERS updated, should come back from JLCPCB with no issue during review.
 
 ### How to Help
 
